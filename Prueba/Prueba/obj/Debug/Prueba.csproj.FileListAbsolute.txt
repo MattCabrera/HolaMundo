@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Usuario\Desktop\Intento\Prueba\Prueba\obj\Debug\Prueba.pdb
